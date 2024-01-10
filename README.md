@@ -4,6 +4,8 @@
 
 Consider a crane that moves along a one-dimensional track. It behaves as a frictionless cart with mass M actuated by an external force F that constitutes the input of the system. There are two loads suspended from cables attached to the crane. The loads have mass m1 and m2, and the lengths of the cables are l1 and l2, respectively. The following figure depicts the crane and associated variables used throughout this project.
 
+![img](https://github.com/piyush-g0enka/LQR-and_LQG-for-Cart-Pendulum/blob/main/additional_files/Screenshot%202024-01-09%20204701.png)
+
 ### A) (25 points)
 
 Obtain the equations of motion for the system and the corresponding nonlinear state-space representation.
