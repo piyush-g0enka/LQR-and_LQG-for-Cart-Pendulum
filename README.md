@@ -1,6 +1,6 @@
 # LQR-and_LQG-for-Cart-Pendulum
 
-###Our project has 4 Matlab files.
+### Our project has 4 Matlab files.
 
 - **Part_D_LQR.mlx:** Run this file in Matlab. In case you encounter an error (Matlab bug), please run the sections one by one. This file contains code for Part D.
 
